@@ -1,5 +1,10 @@
 # 🤖 **C-GurIN - Asistente de Seguridad para Minería Subterránea** 🤖
 
+## 🎥 **Demo del Proyecto**
+
+Mira la demo del proyecto en este vídeo:  
+[Demo en YouTube](https://www.youtube.com/watch?v=tORBGklYpuw)
+
 🚂🚂 ¡Hola! Soy Gerardo Jiménez [LinkedIn](www.linkedin.com/in/gerardo-jimenez-islas), data analyst e ingeniero de minas y metalurgia.  
 Mi pasión por los datos y la inteligencia artificial me ha llevado a desarrollar **C-GurIN**, un chatbot inteligente diseñado para ser un asistente en temas de seguridad para minería subterránea.
 
@@ -39,11 +44,6 @@ El chatbot tiene las siguientes funcionalidades clave:
 3. **OpenAI (GPT)** genera una respuesta adecuada, en el idioma del usuario.  
 4. Si es necesario, el chatbot puede procesar imágenes en formato base64 o detectar situaciones de estrés en la voz del usuario.  
 5. El chatbot proporciona una respuesta completa y, si es necesario, información adicional sobre protocolos de emergencia, planos, o procedimientos.
-
-## 🎥 **Demo del Proyecto**
-
-Mira la demo del proyecto en este vídeo:  
-[Demo en YouTube](https://www.youtube.com/watch?v=tORBGklYpuw)
 
 ---
 
